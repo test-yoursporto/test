@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porto & Gaia Travel Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            padding: 10px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            margin: 0 15px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        .section {
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .back-to-top {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Porto & Gaia Travel Guide</h1>
+</header>
+
+<nav>
+    <a href="#porto">Must-See in Porto</a>
+    <a href="#gaia">Must-See in Gaia</a>
+    <a href="#museums">Museums in Porto</a>
+    <a href="#food">Food & Drink Guide</a>
+</nav>
+
+<div class="section" id="porto">
+    <h2>🌆 Must-See in Porto</h2>
+    <ul>
+        <li><strong>Clérigos Tower</strong>: City icon with an incredible panoramic view.</li>
+        <li><strong>Church of São Francisco</strong>: Impressive Baroque interior, gilded wood carvings (over 100 kg of gold!).</li>
+        <li><strong>Lello Bookstore</strong>: One of the most beautiful bookstores in the world.</li>
+        <li><strong>Porto Cathedral (Sé do Porto)</strong>: Historic cathedral with stunning views over the city.</li>
+        <li><strong>São Bento Train Station</strong>: Famous for its beautiful tile panels (azulejos) depicting Portuguese history.</li>
+        <li><strong>Ribeira District</strong>: Historic riverside area with life, restaurants, and iconic views along the Douro.</li>
+        <li><strong>Dom Luís I Bridge & Port Wine Cellars</strong>: Walk across the iconic bridge to Gaia and explore wine cellars.</li>
+        <li><strong>Palácio da Bolsa (Stock Exchange Palace)</strong>: Magnificent neoclassical building with the stunning Arab Room.</li>
+        <li><strong>Carmo and Carmelitas Churches</strong>: Two churches side by side, separated by the narrowest house in Porto.</li>
+        <li><strong>Crystal Palace Gardens (Jardins do Palácio de Cristal)</strong>: Expansive gardens with stunning views over the Douro River.</li>
+        <li><strong>Santa Catarina Street</strong>: Bustling shopping street, home to the famous Café Majestic.</li>
+        <li><strong>Bolhão Market</strong>: Historic market with fresh produce, flowers, crafts, and food.</li>
+        <li><strong>Rua das Flores</strong>: Pedestrian street full of local shops, restaurants, and street music.</li>
+        <li><strong>Porto Trams (Elétrico do Porto)</strong>: Nostalgic ride on the old tram, especially Line 1 (Ribeira → Foz).</li>
+        <li><strong>City Park & Foz do Douro</strong>: Perfect for relaxing or walking by the sea.</li>
+    </ul>
+</div>
+
+<div class="section" id="gaia">
+    <h2>🌉 Must-See in Gaia</h2>
+    <ul>
+        <li><strong>Cais de Gaia (Gaia Riverside Promenade)</strong>: Best riverside walk, with views of Porto.</li>
+        <li><strong>Dom Luís I Bridge</strong>: Walk the upper deck for the best view.</li>
+        <li><strong>Port Wine Cellars</strong>: Visit Ferreira and Ramos Pinto for authentic tastings.</li>
+        <li><strong>Six Bridges Cruise</strong>: Classic boat tour along the Douro River.</li>
+        <li><strong>Gaia Cable Car (Teleférico de Gaia)</strong>: Connects Gaia riverside to Jardim do Morro.</li>
+        <li><strong>Viewpoints (Miradouros)</strong>:
+            <ul>
+                <li>Miradouro da Vitória – Best view over Ribeira and the Douro.</li>
+                <li>Jardim das Virtudes – Ideal sunset spot.</li>
+                <li>Serra do Pilar Monastery – Impressive view of Porto and the bridge.</li>
+                <li>Jardim do Morro – Perfect for sunset with stunning city views.</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<div class="section" id="museums">
+    <h2>🖼️ Museums in Porto</h2>
+    <ul>
+        <li><strong>Museu Nacional Soares dos Reis</strong>: Wonderful National Museum.</li>
+        <li><strong>WOW (World of Wine)</strong>: Cultural district in Gaia with several museums dedicated to wine, chocolate, cork, fashion, and more.</li>
+        <li><strong>Serralves Museum</strong>: Contemporary art museum in a beautiful park.</li>
+        <li><strong>Neonia</strong>: Immersive digital museum for modern art lovers.</li>
+        <li><strong>World of Discoveries</strong>: Interactive museum about the Portuguese Age of Discoveries. Great for families.</li>
+        <li><strong>Alfândega do Porto</strong>: Hosts rotating exhibitions on art, photography, history, and more.</li>
+    </ul>
+</div>
+
+<div class="section" id="food">
+    <h2>🍴 Food & Drink Guide</h2>
+    <ul>
+        <li><strong>Porto Classics</strong>:  
+            <ul>
+                <li><strong>Casa Guedes</strong>: Famous for roast pork sandwiches with Serra cheese.</li>
+                <li><strong>Café Santiago</strong>: Best for traditional francesinha.</li>
+                <li><strong>Conga</strong>: Legendary spicy pork sandwiches (bifanas).</li>
+            </ul>
+        </li>
+        <li><strong>Fish & Seafood</strong>:  
+            <ul>
+                <li><strong>Alibi by YoursPorto</strong>: Modern twist on Portuguese food, great wine selection.</li>
+                <li><strong>Ostras e Coisas</strong>: Ideal for small plates (oysters, seafood).</li>
+                <li><strong>Adega São Nicolau</strong>: Known for grilled fish and traditional dishes.</li>
+            </ul>
+        </li>
+        <li><strong>Traditional Portuguese Cuisine</strong>:  
+            <ul>
+                <li><strong>Taberna Santo António</strong>: Local favorite with daily specials.</li>
+                <li><strong>Rei dos Galos de Amarante</strong>: Classic, open only on weekends.</li>
+                <li><strong>Cana Verde</strong>: Great for quick, generous portions.</li>
+            </ul>
+        </li>
+        <li><strong>International Cuisine</strong>:  
+            <ul>
+                <li><strong>Cantina 32</strong>: International dishes with Portuguese flair.</li>
+                <li><strong>Puro 4050</strong>: Mediterranean cuisine.</li>
+            </ul>
+        </li>
+        <li><strong>Fine Dining / Michelin-Level</strong>:  
+            <ul>
+                <li><strong>Barrica by YoursPorto</strong>: Creative tasting menu.</li>
+                <li><strong>Muu Steakhouse</strong>: Renowned for premium cuts of meat.</li>
+            </ul>
+        </li>
+        <li><strong>Fresh Fish in Matosinhos</strong>:  
+            <ul>
+                <li>Salta o Muro</li>
+                <li>Tito II</li>
+                <li>Mauritânia Matosinhos</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<div class="back-to-top">
+    <a href="#porto">Back to Top</a>
+</div>
+
+</body>
+</html>
